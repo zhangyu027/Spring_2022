@@ -43,7 +43,7 @@ Course Duration: (March 28th - May 1st, 2022)
 # Lesson Schedule
 Here is the schedule we will be following for our part time data science course:
 | Lesson                                                   | Unit   |Session    |
-| -------------------------------------| ------------------|--------|-----------|
+| ---------------------------------------------------------|--------|-----------|
 | Welcome to Python for Data Analysis                      |Unit 1  |Session 1  |
 | Development Environment: Python Installation and Set up  |Unit 1  |Session 2  |
 | Data structure in Python                                 |Unit 2  |Session 3  |
@@ -101,25 +101,23 @@ Technical debrief: Due @ End of Unit 4
 Presentation: Due @ End of Unit 4
 
 # Technology Requirements
-## Hardware
+### Hardware
 1. 4GB Ram (at least)
 2. 10GB free Hard Drive Space (after installing Anaconda)
 
-## Software
+### Software
 Download and Install Anaconda with Python 3.7.
 
-## PC
-Install Github Desktop
-## MacOS
-Install Github Desktop
+PC: Install Github Desktop
+MacOS: Install Github Desktop
 
-## Browser
+##if # Browser
 Google Chrome
 Mozilla Firefox
 
 # Miscellaneous
 - Text editor (we recommend Atom)
-- Sourcetree: a Git client
+- [https://www.sourcetreeapp.com/]: a Git client
 
 # Expectations
 
