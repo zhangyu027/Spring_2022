@@ -117,7 +117,7 @@ Mozilla Firefox
 
 # Miscellaneous
 - Text editor (we recommend Atom)
-- [https://www.sourcetreeapp.com/]: a Git client
+- [Sourcetree](https://www.sourcetreeapp.com/): a Git client
 
 # Expectations
 
