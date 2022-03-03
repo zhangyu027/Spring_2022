@@ -1,5 +1,16 @@
 # Spring_2022
-UCI Spring_2022 Python for Data Analysis
+# Welcome to UCI Spring_2022 Python for Data Analysis
+1. Welcome
+2. Your Team
+3. Course Overview
+4. Course Schedule
+5. Projects
+6. Tech Requirements
+7. Classroom Tools
+8. Student Expectations
+9. Office Hours
+10. Student Feedback
+
 # Course Overview
 Welcome to the UC Irvine 2022 Spring Onlinecourse Python for Data Analysis! We are building a global community of lifelong learners who are excited about using data to solve real world problems.
 
@@ -11,11 +22,11 @@ In this program, we will use Python to explore datasets, build predictive models
 - Communicate data driven insights to peers and stakeholders in order to inform business decisions.
 
 # What You Will Learn
-Statistical Analysis with Python:
+**Statistical Analysis with Python:
 - Perform visual and statistical analysis on data using Python and its associated libraries and tools.
-Data-Driven Decision-Making:
+**Data-Driven Decision-Making:
 - Define and determine the trade-offs involving feature selection, model accuracy, and data quality.
-Visualizations & Presentations:
+**Visualizations & Presentations:
 - Create visualizations and interactive notebooks to present to industry stakeholders.
 
 # Python Version
@@ -89,7 +100,7 @@ You will get structured guidance and designated time to work throughout the cour
 - Part 2: Python codebook and report
 - Part 3: Technical debrief
 - Part 4: Presentation
-- 
+
 - Proposal + Dataset: Describe your chosen problem and identify relevant data sets (confirming access, as needed).
 - Report: Submit a cleanly formatted Jupyter notebook (py, ipynb or other files) documenting your code and process for technical/peer stakeholders.
 - Technical debrief: Share a summary of your initial analysis and your next steps with your instructional team.
@@ -106,7 +117,8 @@ Presentation: Due @ End of Unit 4
 2. 10GB free Hard Drive Space (after installing Anaconda)
 
 ### Software
-Download and Install Anaconda with Python 3.7.
+Download and Install (Anaconda with Python 3.7)[https://www.anaconda.com/products/individual].
+Download and Install (jupyter lab)[https://jupyter.org/].
 
 PC: Install Github Desktop
 MacOS: Install Github Desktop
